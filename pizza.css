@@ -6,8 +6,8 @@ body{
     background-image: url(hatter.jpg);
     background-attachment: fixed;
 }
-#aa{
-    border-bottom-style: dotted;
+.aa{
+    border-bottom: 2px dotted blue
 }
 .aaa{
     text-align: center;
