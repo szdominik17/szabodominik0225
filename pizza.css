@@ -12,3 +12,16 @@ body{
 .aaa{
     text-align: center;
 }
+a:link {
+    color: yellow;
+}
+a:visited {
+    color: yellow;
+}
+a:hover {
+    color: yellow;
+    text-decoration: underline
+}
+a:active {
+    color: yellow;
+}
